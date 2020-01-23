@@ -32,7 +32,7 @@ $resultc=mysqli_fetch_array($resc);
 <h3 style="align-content: center"><? foreach ($resa as $row){echo "更新时间：{$row['updatetime']}";}; ?></h3>
 <h3 style="align-content: center">全国：确诊<span style="color: #4169e2"><?php echo $resultc['dia'];?></span>例，疑似<span style="color: #4169e2"><?php echo $resultc['sus'];?></span>例</h3>
 <h3 style="align-content: center">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp治愈<span style="color: #4169e2"><?php echo $resultc['res'];?></span>例，死亡<span style="color: #4169e2"><?php echo $resultc['de'];?></span>例</h3>
-<div id="container" style="height: 800px;width:1200px;background:white;margin:20px 0 0;"></div>
+<div id="container" style="height: 633px;width:950px;background:white;margin:20px 0 0;"></div>
 
 <script type="text/javascript">
     // 全国省份列表
