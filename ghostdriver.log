@@ -1,0 +1,19 @@
+[INFO  - 2020-01-26T12:43:28.107Z] GhostDriver - Main - running on port 54800
+[INFO  - 2020-01-26T12:43:32.542Z] Session [7601e290-4039-11ea-b316-e5902913268d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-01-26T12:43:32.542Z] Session [7601e290-4039-11ea-b316-e5902913268d] - page.customHeaders:  - {}
+[INFO  - 2020-01-26T12:43:32.542Z] Session [7601e290-4039-11ea-b316-e5902913268d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-01-26T12:43:32.542Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 7601e290-4039-11ea-b316-e5902913268d
+[ERROR - 2020-01-26T12:43:33.894Z] Session [7601e290-4039-11ea-b316-e5902913268d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'c._roamTransformable.transform.slice()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-01-26T12:43:33.894Z] Session [7601e290-4039-11ea-b316-e5902913268d] - page.onError - stack:
+  rt (https://activity.peopleapp.com/broadcast/js/chunk-vendors.e6d1672f.js:7)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-01-26T12:43:33.911Z] Session [7601e290-4039-11ea-b316-e5902913268d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'c._roamTransformable.transform.slice()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-01-26T12:43:33.911Z] Session [7601e290-4039-11ea-b316-e5902913268d] - page.onError - stack:
+  rt (https://activity.peopleapp.com/broadcast/js/chunk-vendors.e6d1672f.js:7)
+
+  phantomjs://platform/console++.js:263 in error
