@@ -1,6 +1,6 @@
 #新冠肺炎新增确诊爬虫项目
 ---
-##项目简介
+#项目简介
 本项目开发于2020年2月16日,起初只是一个对中国境内扩散程度进行一个实时展示,爬虫来源也是于各大网络公司实时量,使用*PHP*以及*HTML*进行前端展- 
 
 - [X] 支持通过echart进行数据展示
@@ -10,17 +10,17 @@
 - [ ] 支持导出数据进行计算
 
 ***
-##运行方法
+运行方法
 
     $python time.py
 ***
-###相关依赖
-####python
+#相关依赖
+python
 > pymysql
 >lxml
 >selenium(Webdriver[google chrome])
 >BeautifulSoup
-####Web Support
+Web Support
 >Baidu Echart
 >Apache
 
@@ -34,13 +34,13 @@ PHP-->MySql:请求数据
 MySql->PHP:返回数据
 ```
 ***
-###数据来源
+#数据来源
 
->####[腾讯实时疫情][1]
->####[人民日报实时疫情][2]
->####[丁香园实时疫情][3]
->####[新浪实时疫情][4]  [江苏地区][5]
->####[韩国地区][6]
+>[腾讯实时疫情][1]
+>[人民日报实时疫情][2]
+>丁香园实时疫情][3]
+>[新浪实时疫情][4]  [江苏地区][5]
+>[韩国地区][6]
 
 
   [1]: https://news.qq.com/zt2020/page/feiyan.htm?from=timeline&isappinstalled=0#/
