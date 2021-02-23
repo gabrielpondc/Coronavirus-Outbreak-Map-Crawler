@@ -1,4 +1,10 @@
 # 新冠肺炎新增确诊爬虫项目
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/hexpm/l/plug?style=flat&logo=github&logoColor=FFFFFF">
+
 ---
 ### 项目简介
 本项目开发于2020年2月16日,起初只是一个对中国境内扩散程度进行一个实时展示,爬虫来源也是于各大网络公司实时量,使用*PHP*以及*HTML*进行前端展- 
