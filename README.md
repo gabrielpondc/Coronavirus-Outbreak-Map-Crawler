@@ -6,14 +6,14 @@ English | <a href="https://github.com/gabrielpondc/xgfeiyan/blob/master/README-z
 ### Content
 
 - [New Coronavirus Outbreak Map Crawler Project](#New Coronavirus Outbreak Map Crawler Project)
-    + [Project Profile](#ProjectProfile)
-    + [Run Way](#RunWay)
+    + [Project Profile](#Project-Profile)
+    + [Run Way](#Run-Way)
     + [Dependencies](#Dependencies)
       - [python](#python)
       - [Web Support](#web-support)
     + [Ideas](#Ideas)
-    + [Data source](#Data source)
-    + [About the Author](#About the Author)
+    + [Data source](#Data-source)
+    + [About the Author](#About-the-Author)
 ---
 ### Project Profile
 This project was developed on February 16, 2020, initially as a real-time display of the extent of proliferation in China, and the crawlers were sourced from major Internet companies in real time, using *PHP* and *HTML* for the front-end of the exhibition
