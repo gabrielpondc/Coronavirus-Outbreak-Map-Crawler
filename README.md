@@ -61,4 +61,3 @@ MySql->PHP:Return data
 ### About the Author
 
 * <a href="https://github.com/gabrielpondc"><img src="http://img.shields.io/badge/-Github-FFFFFF?style=flat&logo=github&logoColor=000000"></a>
-[1]:https://github.com/gabrielpondc/xgfeiyan
