@@ -6,8 +6,8 @@ English | <a href="https://github.com/gabrielpondc/xgfeiyan/blob/master/README-z
 ### Content
 
 - [New Coronavirus Outbreak Map Crawler Project](#New Coronavirus Outbreak Map Crawler Project)
-    + [Project Profile](#Project Profile)
-    + [Run Way](#Run Way)
+    + [Project Profile](#ProjectProfile)
+    + [Run Way](#RunWay)
     + [Dependencies](#Dependencies)
       - [python](#python)
       - [Web Support](#web-support)
