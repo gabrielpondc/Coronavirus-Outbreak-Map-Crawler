@@ -1,5 +1,5 @@
 # 新冠肺炎新增确诊爬虫项目
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="https://img.shields.io/hexpm/l/plug?style=flat"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/github/forks/gabrielpondc/xgfeiyan?label=Fork&logo=github"> <img src="https://img.shields.io/github/watchers/gabrielpondc/xgfeiyan?label=Watchers&logo=github">
+<a href="https://github.com/topics/html"><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a> <a href="https://github.com/topics/mysql"><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"></a> <a href="https://github.com/topics/javascript"><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></a> <a href="https://github.com/gabrielpondc"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></a> <a href="https://github.com/topics/apache"><img src="https://img.shields.io/hexpm/l/plug?style=flat"></a> <a href="https://github.com/topics/python"><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"></a> <summary class="btn btn-sm btn-with-count" title="Fork your own copy of gabrielpondc/xgfeiyan to your account" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:235768194,&quot;originating_url&quot;:&quot;https://github.com/gabrielpondc/xgfeiyan&quot;,&quot;user_id&quot;:26787778}}" data-hydro-click-hmac="d46cb4819e98a867245b7a2b56591f47cf6a8781f7b9afac4c3f21d10c0b5231" data-ga-click="Repository, show fork modal, action:files#disambiguate; text:Fork" role="button"><img src="https://img.shields.io/github/forks/gabrielpondc/xgfeiyan?label=Fork&logo=github"></summary>  <img src="https://img.shields.io/github/watchers/gabrielpondc/xgfeiyan?label=Watchers&logo=github">
 
 ---
 ### 项目简介
@@ -51,5 +51,6 @@ MySql->PHP:返回数据
 [4]:https://news.sina.cn/zt_d/yiqing0121?ua=iPhone9%2C4__weibo__10.1.2__iphone__os13.3&from=10A1293010&wm=3200_0002&isappinstalled=0
 [5]:https://news.sina.cn/project/fy2020/yq_province.shtml?province=jiangsu
 [6]:https://coronaboard.kr
-
+[html]:https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white
+[html-link]:https://github.com/topics/html
 
