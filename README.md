@@ -1,6 +1,17 @@
 # 新冠肺炎新增确诊爬虫项目
 <a href="https://github.com/topics/html"><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a> <a href="https://github.com/topics/mysql"><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"></a> <a href="https://github.com/topics/javascript"><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></a>  <a href="https://github.com/topics/apache"><img src="https://img.shields.io/hexpm/l/plug?style=flat"></a> <a href="https://github.com/topics/python"><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"></a> <a href="https://github.com/gabrielpondc/xgfeiyan/fork?fragment=1"><img src="https://img.shields.io/github/forks/gabrielpondc/xgfeiyan?label=Fork&logo=github"></a>  <a href="https://github.com/gabrielpondc"><img src="https://img.shields.io/github/watchers/gabrielpondc/xgfeiyan?label=Watchers&logo=github"></a>
+---
+### 目录
 
+- [新冠肺炎新增确诊爬虫项目](#新冠肺炎新增确诊爬虫项目)
+    + [项目简介](#项目简介)
+    + [运行方法](#运行方法)
+    + [相关依赖](#相关依赖)
+      - [python](#python)
+      - [Web Support](#web-support)
+    + [基本思路](#基本思路)
+    + [数据来源](#数据来源)
+    + [关于作者](#关于作者)
 ---
 ### 项目简介
 本项目开发于2020年2月16日,起初只是一个对中国境内扩散程度进行一个实时展示,爬虫来源也是于各大网络公司实时量,使用*PHP*以及*HTML*进行前端展- 
@@ -47,4 +58,4 @@ MySql->PHP:返回数据
 ***
 ### 关于作者
 
-<a href="https://github.com/gabrielpondc"><img src="http://img.shields.io/badge/-Github-FFFFFF?style=flat&logo=github&logoColor=000000"></a>
+* <a href="https://github.com/gabrielpondc"><img src="http://img.shields.io/badge/-Github-FFFFFF?style=flat&logo=github&logoColor=000000"></a>
