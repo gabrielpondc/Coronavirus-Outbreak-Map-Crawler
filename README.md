@@ -18,13 +18,13 @@
 ***
 ### 相关依赖
 #### python
-> pymysql
->lxml
->selenium(Webdriver[google chrome])
->BeautifulSoup
+> pymysql  
+>lxml  
+>selenium(Webdriver[google chrome])  
+>BeautifulSoup  
 #### Web Support
->Baidu Echart
->Apache
+>Baidu Echart  
+>Apache  
 
 ***
 ### 基本思路
