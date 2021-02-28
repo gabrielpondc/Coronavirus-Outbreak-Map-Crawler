@@ -8,17 +8,21 @@ from selenium import webdriver
 import time
 from bs4 import BeautifulSoup
 conn = pymysql.connect( # 创建数据库连接
-
+    host='211.54.64.56', # 要连接的数据库所在主机ip
+    user='root', # 数据库登录用户名
+    password='gjk19961226', # 登录用户密码
+    database='virus', # 连接的数据库名，也可以后续通过cursor.execture('user test_db')指定
+    charset='utf8mb4' # 编码，注意不能写成utf-8
 )
 cursor = conn.cursor()
-url = ''
+url = 'https://3g.dxy.cn/newh5/view/pneumonia_peopleapp'
 driver = webdriver.Chrome(executable_path=r'F:\00\phantomjs-2.1.1-windows\bin\chromedriver.exe')
 driver.get(url)
 time.sleep(3)
 shi = driver.page_source
 etree = html.etree
 etree_html = etree.HTML(shi)
-qz=etree_html.xpath('//*[@id="root"]/div/div[3]/div[1]/p[2]/span/span[1]/text()')
+qz=etree_html.xpath('//*[@id="month7"]/ul/li[1]/text()')
 ys=etree_html.xpath('//*[@id="root"]/div/div[3]/div[1]/p[2]/span/span[2]/text()')
 zy=etree_html.xpath('//*[@id="root"]/div/div[3]/div[1]/p[2]/span/span[3]/text()')
 sw=etree_html.xpath('//*[@id="root"]/div/div[3]/div[1]/p[2]/span/span[4]/text()')
